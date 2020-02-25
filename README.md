@@ -12,6 +12,19 @@ reveal-md README.md -W --css style.css
 * Establishing goals
 * Python intro
 
+Notes:
+Expectations:
+Refresh for python code
+Better understanding on how python works
+Better understanding on python code
+Learning something new
+How JS maps to Python
+Less interested in OOP, functional programming, common concepts
+
+Expectations nice to have:
+Can do backend reviews
+Django
+
 ---
 
 ### Python
@@ -42,6 +55,7 @@ reveal-md README.md -W --css style.css
 ```
 
 Notes:
+test lba
 
 ---    
 
